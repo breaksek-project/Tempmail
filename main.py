@@ -47,7 +47,7 @@ if __name__ == "__main__":
     username = random_string()
     domain = get_domain()
     email = f"{username}@{domain}"
-    password = "temppass123"
+    password = "breaksek123"
 
     print(f"[+] Temp Mail: {email}")
 
