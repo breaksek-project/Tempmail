@@ -1,0 +1,1 @@
+Tempmail (singkatan dari temporary email atau email sementara) adalah layanan yang menyediakan alamat email sekali pakai, biasanya tanpa perlu mendaftar, dan akan otomatis kedaluwarsa dalam waktu singkat (misalnya 10 menit – 1 jam).
